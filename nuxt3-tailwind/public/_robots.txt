@@ -1,6 +1,0 @@
-# Allow all crawlers
-User-agent: *
-Disallow:
-
-# Optionally point to your sitemap
-Sitemap: http://a69702.sitemaphosting.com/3927666/sitemap.xml
