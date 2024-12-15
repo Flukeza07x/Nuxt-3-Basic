@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.0.96",
+    "@nuxtjs/robots": "^5.0.1",
+    "apexcharts": "^3.35.0",
+    "nuxt": "^3.14.1592",
+    "sass": "^1.56.1",
+    "vue": "latest",
+    "vue-router": "latest",
+    "vue3-apexcharts": "^1.4.1",
+    "vuetify": "^3.7.5"
+  }
+}
