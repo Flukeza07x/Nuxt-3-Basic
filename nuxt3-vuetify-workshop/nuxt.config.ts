@@ -36,3 +36,7 @@ export default defineNuxtConfig({
 
   compatibilityDate: "2024-12-15",
 });
+
+function defineNuxtConfig(arg0: { ssr: boolean; routeRules: { '/backend/**': { ssr: boolean; }; }; build: { transpile: string[]; }; css: string[]; vite: { define: { "process.env.DEBUG": boolean; }; }; modules: (string | { UserAgent: string; Disallow: string; Sitemap: string; })[][]; compatibilityDate: string; }) {
+  throw new Error("Function not implemented.");
+}

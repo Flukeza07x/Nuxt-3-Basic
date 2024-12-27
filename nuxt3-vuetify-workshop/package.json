@@ -23,6 +23,7 @@
     "vuetify": "^3.7.5"
   },
   "devDependencies": {
+    "@nuxt/types": "^2.18.1",
     "typescript": "^5.7.2"
   }
 }
