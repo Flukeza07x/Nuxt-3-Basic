@@ -15,15 +15,12 @@
     "@nuxtjs/robots": "^5.0.1",
     "@nuxtjs/vercel-builder": "^0.25.0",
     "apexcharts": "^3.35.0",
-    "nuxt": "^3.14.1592",
-    "sass": "^1.56.1",
-    "vue": "latest",
-    "vue-router": "latest",
+    "nuxt": "^3.14.0",
+    "sass": "^1.64.0",
     "vue3-apexcharts": "^1.4.1",
     "vuetify": "^3.7.5"
   },
   "devDependencies": {
-    "@nuxt/types": "^2.18.1",
-    "typescript": "^5.7.2"
+    "typescript": "^5.2.2"
   }
 }
